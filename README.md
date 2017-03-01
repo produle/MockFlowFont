@@ -18,13 +18,12 @@ It comes with two styles:
 **NOTE:** The above mockups were created using [MockFlow.com](https://mockflow.com) Wireframe Software
 
 ##Usage
-You can use the following ways 
 
 (1) If you use MockFlow.com to create wireframes, then fonts are already available there as part of its font settings
 
-(2) For web font, make use of the styles.css already present in that folder
+(2) For web font, make use of the styles.css present in the dist folder
 
-(3) To be used as a Desktop Font in your OS, install the \*.ttf font file from that folder
+(3) To be used as a Desktop Font in your OS, install the \*.ttf font file from the same folder
  
  
 ##License
