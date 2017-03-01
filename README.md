@@ -1,6 +1,6 @@
 # MockFlowFont - A Font built for Mockups
 
-We created a new font-family set called "MockFlowFont" to be used with our online wireframe tool at [mockflow.com](https://mockflow.com).
+We created a new font-family set called "MockFlowFont" to be used creating wireframes with our tool at [mockflow.com](https://mockflow.com) and decided to opensource so it can be used freely in other apps and prototypes without any restrictions.
 
 "MockFlowFont" helps to quickly create dummy textual content to emphasize the design part of the mockups rather than the text. Unlike other similar fonts, "MockFlowFont" is crafted from scratch with the right font metrics to specifically look good in mockups. 
 
@@ -31,6 +31,8 @@ There are 2 ways you can use the Font to create Wireframes
 Copyright (c) 2017 "A Produle Systems Pvt Ltd" (mockflow@produle.com)
 
 This font is opensourced and licensed under SIL Open Font License. For more details see the "LICENSE" file in this Repo.
+
+This Repo also provides all the source files associated with this Font. Feel free to modify and use without any restrictions.
 
 
 
